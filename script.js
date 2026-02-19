@@ -37,8 +37,8 @@ async function run() {
     // create the model
     //const model = createModel();
     //tfvis.show.modelSummary({name: 'Model Summary'}, model);
-    const tensorData =  convertToTensor(data);
-    const {inputs, labels} = tensorData;
+    //const tensorData =  convertToTensor(data);
+    //const {inputs, labels} = tensorData;
 
     //Train the model
     //await trainModel(model, inputs, labels);
